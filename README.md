@@ -1,35 +1,36 @@
 ### Oi, meu nome é Fernanda👋 e eu ❤️ IA e Matemática
 
-**Meus interesses**: AGI, NLP, RL, Graphs, Distributed Systems
+**Meus interesses**: CNN, NLP, DP, ML, API
 
+**Curriculum Vitae**: [Fernanda Paula Rocha](https://github.com/rocha-fernanda/rocha-fernanda/blob/main/Curriculo_FernandaRocha.pdf)
 
 <!-- 
 
-**Curriculum Vitae**: [Curriculo_FernandaRocha.pdf](https://github.com/rocha-fernanda/rocha-fernanda/blob/main/Curriculo_FernandaRocha.pdf) -->
+**Curriculum Vitae**: [Curriculo_FernandaRocha.pdf](https://github.com/rocha-fernanda/rocha-fernanda/blob/main/Curriculo_FernandaRocha.pdf)
+-->
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         Python, SQL, R
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
-- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Hive, Spark
+- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Pandas, Numpy, TensorFlow
+- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git
 
-### Experiência Profissional 👔
-| Posição no Trabalho           | Empresa         | Campo                         | Período do Trabalho     |
-| ---------------------- | --------------- | ----------------------------- | ----------------- |
-| **Research Scientist** | **SberDevices** | **AGI, LLM, RLHF, GigaChat**  | **2023-04 — now** |
-| NLP Team Lead          | SberDevices     | Search, Information Retrieval | 2022-10 — 2023-04 |
-| NLP Tech Lead          | Sber AI Lab     | NLP, MLOps, Mentoring         | 2021-05 — 2022-10 |
-| Senior NLP Engineer    | Tinkoff AI Lab  | Virtual Assistant "Oleg"      | 2021-02 — 2021-04 |
-| Middle NLP Engineer    | MTS AI Lab      | NER with Pseudo-Labeling      | 2020-05 — 2021-02 |
-| Junior Data Scientist  | Sberbank        | ML with Tabular Data, CV      | 2018-07 — 2020-05 |
-
-### Education 🎓
+### Educação 🎓
 - [Doutorado em Engenharia Elétrica na Área de Automação](https://www.fee.unicamp.br/) @ Universidade Estadual de Campinas (2019 - 2024)
 - [MBA em Ciência de Dados](https://cemeai.icmc.usp.br/MBA/) @ Universidade de São Paulo (2022 - 2023)
 - [Mestrado em Engenharia Elétrica na Área de Automação](https://www.fee.unicamp.br/) @ Universidade Estadual de Campinas (2017 - 2019)
 - [Graduação em Matemática](https://ufpa.br/) @ Universidade Federal do Pará (2009 - 2014)
 
-### Projects 🐾
+### Experiência Profissional 👔
+| Posição no Trabalho           | Empresa         | Campo                         | Período do Trabalho     |
+| ---------------------- | --------------- | ----------------------------- | ----------------- |
+| Pesquisadora em Saúde Pública e Inteligência Artificial | UNICAMP |IA, Machine Learning, Estatística , EDA, Dataset  | 2019-07 — 2024-02  |
+| Auxiliar docente em Estatística         | UNICAMP     |Estatística  | 2020-02 — 2020-12 |
+| Pesquisadora de Modelagem e Otimização de Sistemas          |  UNICAMP    | EDO, Modelagem, Biomatemática         | 2017-02 — 2019-06 |
+
+
+
+### Projetos 🐾
 - EM CONSTRUÇÃO
 
 
