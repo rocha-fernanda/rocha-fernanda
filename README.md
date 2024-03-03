@@ -21,6 +21,9 @@
 - [Mestrado em Engenharia Elétrica na Área de Automação](https://www.fee.unicamp.br/) @ Universidade Estadual de Campinas (2017 - 2019)
 - [Graduação em Matemática](https://ufpa.br/) @ Universidade Federal do Pará (2009 - 2014)
 
+### Projetos 🐾
+- [Projeto ExploraCompra](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revela padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
+
 ### Experiência Profissional 🤓
 | Posição no Trabalho           | Empresa         | Campo                         | Período do Trabalho     |
 | ---------------------- | --------------- | ----------------------------- | ----------------- |
@@ -28,10 +31,6 @@
 | Auxiliar docente em Estatística         | UNICAMP     |Estatística  | 2020-02 — 2020-12 |
 | Pesquisadora de Modelagem e Otimização de Sistemas          |  UNICAMP    | EDO, Modelagem, Biomatemática         | 2017-02 — 2019-06 |
 
-
-
-### Projetos 🐾
-- [Projeto ExploraCompra](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revela padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
 
 
 Para mais informações [LinkedIn](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)🚀
