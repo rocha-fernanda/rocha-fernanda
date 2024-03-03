@@ -10,7 +10,7 @@
 -->
 
 ### Skills 🛠️
-- **Languages**:&nbsp;                         Python, SQL, R
+- **Languages**:&nbsp;                         Python, SQL, R, Matlab
 - **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Pandas, Numpy, TensorFlow
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git
