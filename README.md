@@ -21,7 +21,7 @@
 - [Mestrado em Engenharia Elétrica na Área de Automação](https://www.fee.unicamp.br/) @ Universidade Estadual de Campinas (2017 - 2019)
 - [Graduação em Matemática](https://ufpa.br/) @ Universidade Federal do Pará (2009 - 2014)
 
-### Experiência Profissional 👔
+### Experiência Profissional 🤓
 | Posição no Trabalho           | Empresa         | Campo                         | Período do Trabalho     |
 | ---------------------- | --------------- | ----------------------------- | ----------------- |
 | Pesquisadora em Saúde Pública e Inteligência Artificial | UNICAMP |IA, Machine Learning, Estatística , EDA, Dataset  | 2019-07 — 2024-02  |
