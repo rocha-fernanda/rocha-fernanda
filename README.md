@@ -31,7 +31,7 @@
 
 
 ### Projetos 🐾
-- EM CONSTRUÇÃO
+- [Projeto ExploraCompra](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revela padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
 
 
 Para mais informações [LinkedIn](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)🚀
