@@ -34,4 +34,4 @@
 - EM CONSTRUÇÃO
 
 
-Para mais informações [LinkedIn](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/) 🚀
+Para mais informações [LinkedIn](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/) e [Gmail](fernanda.rocha507@gmail.com)🚀
