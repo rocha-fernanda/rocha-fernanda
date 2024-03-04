@@ -6,7 +6,7 @@
 
 <!-- 
 
-**Curriculum Vitae**: [Curriculo_FernandaRocha.pdf](https://github.com/rocha-fernanda/rocha-fernanda/blob/main/Curriculo_FernandaRocha.pdf)
+**Currículo**: [Curriculo_FernandaRocha.pdf](https://github.com/rocha-fernanda/rocha-fernanda/blob/main/Curriculo_FernandaRocha.pdf)
 -->
 
 ### Skills 🛠️
