@@ -25,6 +25,7 @@
 - [Apriori loja online](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revela padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
 - [Churn Bancário ML](https://github.com/rocha-fernanda/ClassificationBalancing_churn.git) - antecipando a perda de clientes no setor bancário com aprendizado de máquina e técnicas de balanceamento. 🤖💼
 - [Predição de Pacientes](https://github.com/rocha-fernanda/Classification_patient_dengue.git) - desenvolvendo uma ferramenta robusta que permita a identificação precoce da dengue, aprimorando decisões clínicas e estratégias de controle.
+- [Cluster kindle](https://github.com/rocha-fernanda/ClusterRecommender_Kindle.git) - descobrindo padrões fascinantes e criando um sistema de recomendação inovador para livros na plataforma Kindle, através da clusterização de dados baseada em diversos atributos literários. 📚💡
 
 ### Experiência Profissional 🤓
 | Posição no Trabalho           | Empresa         | Campo                         | Período do Trabalho     |
