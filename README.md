@@ -27,6 +27,9 @@
 - [Predição de Pacientes](https://github.com/rocha-fernanda/Classification_patient_dengue.git) - desenvolvendo uma ferramenta robusta que permita a identificação precoce da dengue, aprimorando decisões clínicas e estratégias de controle.
 - [Cluster kindle](https://github.com/rocha-fernanda/ClusterRecommender_Kindle.git) - descobrindo padrões fascinantes e criando um sistema de recomendação inovador para livros na plataforma Kindle, através da clusterização de dados baseada em diversos atributos literários. 📚💡
 - [Dengue Insights](https://github.com/rocha-fernanda/DataAnalysis_PatientDengue.git) - desvendando padrões em dados epidemiológicos para aprimorar a prevenção e gestão da dengue em um município brasileiro. 🦟📊
+- [Teste de Hipóteses](https://github.com/rocha-fernanda/HypothesisTest_Marketing.git) - desbravando dados de marketing, desvendando padrões e otimizando estratégias, mergulhando nas profundezas do comportamento do consumidor. 🚀💡
+
+
 
 
 
