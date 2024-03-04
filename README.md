@@ -2,7 +2,7 @@
 
 **Meus interesses**: CNN, NLP, DP, ML, API
 
-**Curriculum Vitae**: [Fernanda Paula Rocha](https://github.com/rocha-fernanda/rocha-fernanda/blob/main/Curriculo_FernandaRocha.pdf)
+**Currículo**: [Fernanda Paula Rocha](https://github.com/rocha-fernanda/rocha-fernanda/blob/main/Curriculo_FernandaRocha.pdf)
 
 <!-- 
 
