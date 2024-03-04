@@ -22,6 +22,7 @@
 - [Graduação em Matemática](https://ufpa.br/) @ Universidade Federal do Pará (2009 - 2014)
 
 ### Projetos 🐾
+- [Desafio Cientista de Dados](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist.git) - a abordagem envolve análises detalhadas e visualizações impactantes utilizando SQL e Python, explorando conjuntos de dados públicos relacionados a chamados de serviços públicos, bairros do Rio de Janeiro e ocupação hoteleira em grandes eventos.
 - [Apriori loja online](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revela padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
 - [Churn Bancário ML](https://github.com/rocha-fernanda/ClassificationBalancing_churn.git) - antecipando a perda de clientes no setor bancário com aprendizado de máquina e técnicas de balanceamento. 🤖💼
 - [Predição de Pacientes](https://github.com/rocha-fernanda/Classification_patient_dengue.git) - desenvolvendo uma ferramenta robusta que permita a identificação precoce da dengue, aprimorando decisões clínicas e estratégias de controle.
