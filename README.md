@@ -22,8 +22,8 @@
 - [Graduação em Matemática](https://ufpa.br/) @ Universidade Federal do Pará (2009 - 2014)
 
 ### Projetos 🐾
-- [Projeto ExploraCompra](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revela padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
-- [ Churn Bancário ML](https://github.com/rocha-fernanda/ClassificationBalancing_churn.git) - antecipando a perda de clientes no setor bancário com aprendizado de máquina e técnicas de balanceamento. 🤖💼
+- [Apriori loja online](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revela padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
+- [Churn Bancário ML](https://github.com/rocha-fernanda/ClassificationBalancing_churn.git) - antecipando a perda de clientes no setor bancário com aprendizado de máquina e técnicas de balanceamento. 🤖💼
 
 ### Experiência Profissional 🤓
 | Posição no Trabalho           | Empresa         | Campo                         | Período do Trabalho     |
