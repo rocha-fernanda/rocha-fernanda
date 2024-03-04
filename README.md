@@ -26,6 +26,7 @@
 - [Churn Bancário ML](https://github.com/rocha-fernanda/ClassificationBalancing_churn.git) - antecipando a perda de clientes no setor bancário com aprendizado de máquina e técnicas de balanceamento. 🤖💼
 - [Predição de Pacientes](https://github.com/rocha-fernanda/Classification_patient_dengue.git) - desenvolvendo uma ferramenta robusta que permita a identificação precoce da dengue, aprimorando decisões clínicas e estratégias de controle.
 - [Cluster kindle](https://github.com/rocha-fernanda/ClusterRecommender_Kindle.git) - descobrindo padrões fascinantes e criando um sistema de recomendação inovador para livros na plataforma Kindle, através da clusterização de dados baseada em diversos atributos literários. 📚💡
+- [Dengue Insights](https://github.com/rocha-fernanda/DataAnalysis_PatientDengue.git) - desvendando padrões em dados epidemiológicos para aprimorar a prevenção e gestão da dengue em um município brasileiro.
 
 ### Experiência Profissional 🤓
 | Posição no Trabalho           | Empresa         | Campo                         | Período do Trabalho     |
