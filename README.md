@@ -28,6 +28,8 @@
 - [Cluster kindle](https://github.com/rocha-fernanda/ClusterRecommender_Kindle.git) - descobrindo padrões fascinantes e criando um sistema de recomendação inovador para livros na plataforma Kindle, através da clusterização de dados baseada em diversos atributos literários. 📚💡
 - [Dengue Insights](https://github.com/rocha-fernanda/DataAnalysis_PatientDengue.git) - desvendando padrões em dados epidemiológicos para aprimorar a prevenção e gestão da dengue em um município brasileiro. 🦟📊
 - [Teste de Hipóteses](https://github.com/rocha-fernanda/HypothesisTest_Marketing.git) - desbravando dados de marketing, desvendando padrões e otimizando estratégias, mergulhando nas profundezas do comportamento do consumidor. 🚀💡
+- [ Recuperação de Obras de Arte](https://github.com/rocha-fernanda/LBP_VGG16_ImageRecup.git) - explorando técnicas avançadas de processamento de imagem para encontrar obras semelhantes à imagem de consulta, unindo cor e textura com LBP e VGG16. 🚀💡
+- [Predição de Valor de Casas](https://github.com/rocha-fernanda/ModelsRegression_PredictingHouse.git) - desenvolvi um modelo avançado de aprendizado de máquina para prever com precisão o valor de venda de casas, explorando técnicas como regressão, regularização e transformações, oferecendo insights valiosos para o mercado imobiliário. 🏡
 
 
 
