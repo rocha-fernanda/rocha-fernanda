@@ -23,15 +23,15 @@
 
 ### Projetos 🐾
 - [Desafio Cientista de Dados](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist.git) - a abordagem envolve análises detalhadas e visualizações impactantes utilizando SQL e Python, explorando conjuntos de dados públicos relacionados a chamados de serviços públicos, bairros do Rio de Janeiro e ocupação hoteleira em grandes eventos.
-- [Apriori loja online](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revela padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
-- [Churn Bancário ML](https://github.com/rocha-fernanda/ClassificationBalancing_churn.git) - antecipando a perda de clientes no setor bancário com aprendizado de máquina e técnicas de balanceamento. 🤖💼
-- [Predição de Pacientes](https://github.com/rocha-fernanda/Classification_patient_dengue.git) - desenvolvendo uma ferramenta robusta que permita a identificação precoce da dengue, aprimorando decisões clínicas e estratégias de controle.
-- [Cluster kindle](https://github.com/rocha-fernanda/ClusterRecommender_Kindle.git) - descobrindo padrões fascinantes e criando um sistema de recomendação inovador para livros na plataforma Kindle, através da clusterização de dados baseada em diversos atributos literários. 📚💡
-- [Dengue Insights](https://github.com/rocha-fernanda/DataAnalysis_PatientDengue.git) - desvendando padrões em dados epidemiológicos para aprimorar a prevenção e gestão da dengue em um município brasileiro. 🦟📊
-- [Teste de Hipóteses](https://github.com/rocha-fernanda/HypothesisTest_Marketing.git) - desbravando dados de marketing, desvendando padrões e otimizando estratégias, mergulhando nas profundezas do comportamento do consumidor. 🚀💡
-- [ Recuperação de Obras de Arte](https://github.com/rocha-fernanda/LBP_VGG16_ImageRecup.git) - explorando técnicas avançadas de processamento de imagem para encontrar obras semelhantes à imagem de consulta, unindo cor e textura com LBP e VGG16. 🚀💡
+- [Apriori loja online](https://github.com/rocha-fernanda/Apriori_OnlineRetail.git) - revelei padrões de compra e recomendações personalizadas, desvendando segredos do comércio online com o Algoritmo Apriori.
+- [Churn Bancário ML](https://github.com/rocha-fernanda/ClassificationBalancing_churn.git) - antecipei a perda de clientes no setor bancário com aprendizado de máquina e técnicas de balanceamento. 🤖💼
+- [Predição de Pacientes](https://github.com/rocha-fernanda/Classification_patient_dengue.git) - desenvolvi uma ferramenta robusta que permita a identificação precoce da dengue, aprimorando decisões clínicas e estratégias de controle.
+- [Cluster kindle](https://github.com/rocha-fernanda/ClusterRecommender_Kindle.git) - descobri padrões fascinantes e criando um sistema de recomendação inovador para livros na plataforma Kindle, através da clusterização de dados baseada em diversos atributos literários. 📚💡
+- [Dengue Insights](https://github.com/rocha-fernanda/DataAnalysis_PatientDengue.git) - desvendei padrões em dados epidemiológicos para aprimorar a prevenção e gestão da dengue em um município brasileiro. 🦟📊
+- [Teste de Hipóteses](https://github.com/rocha-fernanda/HypothesisTest_Marketing.git) - desbravei dados de marketing, desvendando padrões e otimizando estratégias, mergulhando nas profundezas do comportamento do consumidor. 🚀💡
+- [ Recuperação de Obras de Arte](https://github.com/rocha-fernanda/LBP_VGG16_ImageRecup.git) - explorei técnicas avançadas de processamento de imagem para encontrar obras semelhantes à imagem de consulta, unindo cor e textura com LBP e VGG16. 🚀💡
 - [Predição de Valor de Casas](https://github.com/rocha-fernanda/ModelsRegression_PredictingHouse.git) - desenvolvi um modelo avançado de aprendizado de máquina para prever com precisão o valor de venda de casas, explorando técnicas como regressão, regularização e transformações, oferecendo insights valiosos para o mercado imobiliário. 🏡
-- [Análise Multilíngue de Sentimentos em Avaliações de Filmes](https://github.com/rocha-fernanda/NeuralNetworks_NLP_IMDB.git) - desenvolvi um projeto desafiador durante meu MBA em Ciência de Dados, explorando técnicas avançadas de Redes Neurais para análise de sentimentos em avaliações de filmes em inglês e português. 🎬🤖
+- [Análise Multilíngue de Sentimentos em Avaliações de Filmes](https://github.com/rocha-fernanda/NeuralNetworks_NLP_IMDB.git) - eborei um projeto desafiador durante meu MBA em Ciência de Dados, explorando técnicas avançadas de Redes Neurais para análise de sentimentos em avaliações de filmes em inglês e português. 🎬🤖
 
 
 
