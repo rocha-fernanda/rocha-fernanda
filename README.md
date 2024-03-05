@@ -10,10 +10,26 @@
 -->
 
 ### Skills 🛠️
+- **Linguagens**:&nbsp;                         Python, SQL, R, Markdown, Matlab, Latex
+- **IDLE**:    &nbsp;&nbsp;&nbsp;&nbsp;        Jupyter, Rstudio, Colab, Spyder, Pycharm, Matlab 
+- **DS/ML/DL**:  &nbsp;&nbsp;                  Statsmodels, Scikit-Learn, PyTorch, Pandas, Numpy, TensorFlow, NLTK, Keras, Plotly, Scipy, Matplotlib, Seaborn, Caret, dplyr, tidyr, ggplot2
+- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark, Google Cloud
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git
+
+- ### Skills 🛠️
 - **Linguagens**:&nbsp;                         Python, SQL, R, Matlab, Latex, R
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Pandas, Numpy, TensorFlow, NLTK, 
+- **DS/ML/DL**:  &nbsp;&nbsp;                  Scikit-Learn, PyTorch, Pandas, Numpy, TensorFlow, NLTK, Keras, Plotly, Scipy, Matplotlib, Seaborn, 
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git
+
+### Bibliotecas em R 📊
+- **Análise Estatística**: R base, dplyr, tidyr
+- **Visualização de Dados**: ggplot2, lattice
+- **Machine Learning em R**: caret, randomForest, xgboost
+- **Processamento de Linguagem Natural (NLP) em R**: tm, quanteda
+- **Manipulação de Dados em R**: data.table, reshape2
+- **Estatísticas Avançadas**: psych, Hmisc
+
 
 ### Educação 🎓
 - [Doutorado em Engenharia Elétrica na Área de Automação](https://www.fee.unicamp.br/) @ Universidade Estadual de Campinas (2019 - 2024)
