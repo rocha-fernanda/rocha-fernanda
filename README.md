@@ -10,8 +10,8 @@
 -->
 
 ### Skills 🛠️
-- **Languages**:&nbsp;                         Python, SQL, R, Matlab
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Pandas, Numpy, TensorFlow
+- **Linguagens**:&nbsp;                         Python, SQL, R, Matlab, Latex, R
+- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Pandas, Numpy, TensorFlow, NLTK, 
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git
 
@@ -63,6 +63,7 @@
 ![Plotly Badge](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+<br>
 <br>Cloud</p>
 </div>
 
