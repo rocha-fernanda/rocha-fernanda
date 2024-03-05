@@ -48,7 +48,10 @@
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/)](https://mail.google.com/)
 <br>
+
 
 
 
