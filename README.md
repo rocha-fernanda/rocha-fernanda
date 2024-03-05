@@ -50,10 +50,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)](ttps://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)🚀
 <br>
 
-<br><br>Currently based in Sweden.</p>
+<br><br>Para mais informações:</p>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquelinebianco/)](https://www.linkedin.com/in/jaquelinebianco/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)](ttps://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)
 <br>
 
 
