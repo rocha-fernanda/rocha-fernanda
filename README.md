@@ -44,7 +44,7 @@
 | Auxiliar docente em Estatística         | UNICAMP     |Estatística  | 2020-02 — 2020-12 |
 | Pesquisadora de Modelagem e Otimização de Sistemas          |  UNICAMP    | EDO, Modelagem, Biomatemática         | 2017-02 — 2019-06 |
 
-<br><br>Para mais informações.</p>
+<br>Para mais informações:</p>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)
