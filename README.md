@@ -34,7 +34,7 @@
 - [Teste de Hipóteses](https://github.com/rocha-fernanda/HypothesisTest_Marketing.git) - desbravei dados de marketing, desvendando padrões e otimizando estratégias, mergulhando nas profundezas do comportamento do consumidor. 🚀💡
 - [ Recuperação de Obras de Arte](https://github.com/rocha-fernanda/LBP_VGG16_ImageRecup.git) - explorei técnicas avançadas de processamento de imagem para encontrar obras semelhantes à imagem de consulta, unindo cor e textura com LBP e VGG16. 🚀💡
 - [Predição de Valor de Casas](https://github.com/rocha-fernanda/ModelsRegression_PredictingHouse.git) - desenvolvi um modelo avançado de aprendizado de máquina para prever com precisão o valor de venda de casas, explorando técnicas como regressão, regularização e transformações, oferecendo insights valiosos para o mercado imobiliário. 🏡
-- [Análise Multilíngue de Sentimentos em Avaliações de Filmes](https://github.com/rocha-fernanda/NeuralNetworks_NLP_IMDB.git) - eborei um projeto desafiador durante meu MBA em Ciência de Dados, explorando técnicas avançadas de Redes Neurais para análise de sentimentos em avaliações de filmes em inglês e português. 🎬🤖
+- [Análise Multilíngue de Sentimentos em Avaliações de Filmes](https://github.com/rocha-fernanda/NeuralNetworks_NLP_IMDB.git) - elaborei um projeto desafiador durante meu MBA em Ciência de Dados, explorando técnicas avançadas de Redes Neurais para análise de sentimentos em avaliações de filmes em inglês e português. 🎬🤖
 
 
 
