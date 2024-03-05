@@ -45,8 +45,7 @@
 | Pesquisadora de Modelagem e Otimização de Sistemas          |  UNICAMP    | EDO, Modelagem, Biomatemática         | 2017-02 — 2019-06 |
 
 
-
-Para mais informações [LinkedIn](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)🚀
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)](ttps://www.linkedin.com/in/fernanda-paula-rocha-20687122a/)🚀
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
