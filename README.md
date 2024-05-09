@@ -21,7 +21,7 @@
 ### Educação 🎓
 - [Doutorado em Engenharia Elétrica na Área de Automação](https://www.fee.unicamp.br/) @ Universidade Estadual de Campinas (2019 - 2024)
 - [Mestrado em Engenharia Elétrica na Área de Automação](https://www.fee.unicamp.br/) @ Universidade Estadual de Campinas (2017 - 2019)
-- [MBA em Ciência de Dados](https://cemeai.icmc.usp.br/MBA/) @ Universidade de São Paulo (2022 - 2023)
+- [Especialização (MBA) em Ciência de Dados](https://cemeai.icmc.usp.br/MBA/) @ Universidade de São Paulo (2022 - 2023)
 - [Graduação em Matemática](https://ufpa.br/) @ Universidade Federal do Pará (2009 - 2014)
 
 ### Projetos 🐾
